@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet <domain/IP Adrdress>  
+telnet towel.blinkenlights.nl  
